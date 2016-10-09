@@ -1,2 +1,3 @@
 # hello-world
-thisis my first repository
+this is my first repository
+hey!!..this is shivangi...GITUB is fun, its seems.
